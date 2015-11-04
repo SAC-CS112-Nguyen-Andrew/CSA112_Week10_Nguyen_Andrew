@@ -26,4 +26,6 @@ public int GetANumber()
  return gameNum;
 }
 
+//Good job
+
 }
